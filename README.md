@@ -1,8 +1,8 @@
-manage @ discord.gg/xenix
+- manage @ discord.gg/xenix
 
-telegram @ https://t.me/elitewtw
+- telegram @ https://t.me/elitewtw
 
-discord @ 1384721056832471
+- discord @ 1384721056832471
 
 ```cpp
 #include <tuple>
