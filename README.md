@@ -14,7 +14,7 @@ public:
     Attributes() {}
 
     static std::tuple<std::string, std::string, std::string> contact() {
-        std::string discord = "1384721056832471";
+        std::string discord = "elitewtw";
         std::string telegram = "t.me/elitewtw";
         std::string youtube = "https://www.youtube.com/@eliteism";
 
@@ -73,7 +73,7 @@ public:
 ## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/-@xenix.gg-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xenix)
+  [![Discord](https://img.shields.io/badge/-@xenix.gg-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/elixrrr)
   [![Telegram](https://img.shields.io/badge/-@elitewtw-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elitewtw)
   [![YouTube](https://img.shields.io/badge/-@eliteism-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eliteism)
 
