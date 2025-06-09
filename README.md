@@ -1,4 +1,4 @@
-- own @ discord.gg/elixirrr
+- own @ ?
 
 - telegram @ https://t.me/elitewtw
 
@@ -73,7 +73,8 @@ public:
 ## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/-@xenix.gg-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/elixrrr)
+  <!--[![Discord](https://img.shields.io/badge/-@xenix.gg-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/elixrrr) -->
+  
   [![Telegram](https://img.shields.io/badge/-@elitewtw-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elitewtw)
   [![YouTube](https://img.shields.io/badge/-@eliteism-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eliteism)
 
